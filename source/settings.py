@@ -1,7 +1,7 @@
 # 기본
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 # 데이터 가져오기
 import pandas as pd
